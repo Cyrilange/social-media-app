@@ -2,6 +2,9 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+![image](https://github.com/Cyrilange/social-media-app/assets/106234259/db40beca-6789-4353-8cec-9656de594d80)
+
+
 ## Available Scripts
 
 In the project directory, you can run:
